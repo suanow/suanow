@@ -1,6 +1,7 @@
 ### Suanov Nikolai
 ## Education
 BSc: HSE Economics'22, GPA 8.57/10
+
 MSc: HSE BABDS'24, GPA: 8.71/10
 
 ## Work experience

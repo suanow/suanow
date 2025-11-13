@@ -20,7 +20,7 @@ regional managers
 -->
 
 # 💫 About Me:
-Hi there 👋<br><br>🙋🏻‍♂️ You can check my projects in pinned repositories or [here](https://suanow.tilda.ws/)<br>🎓 HSE BSc in Economics and MSc in Business Informatics with honors (8.64 GPA)<br>💼 Worked at Mars and Ozon as Data Analyst<br>🧑🏻‍💻 Projects: [CustDev.space](https://custdevai.vercel.app/)<br>🤲🏻 Looking to collaborate on DA / ML / Trading projects
+Hi there 👋<br><br>🙋🏻‍♂️ You can check my projects in pinned repositories or [here](https://suanow.tilda.ws/)<br>🎓 HSE BSc in Economics and MSc in Business Informatics with honors (8.64 GPA)<br>💼 DA at OZON <br>🤲🏻 Looking to collaborate on DA / ML / Trading projects
 
 
 # 💻 Tech Stack:
